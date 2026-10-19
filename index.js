@@ -14,6 +14,7 @@ app.get("/filmes", function(req,res){
             <li>O Poderoso Chefão</li>
             <li>Interestelar</li>
             <li>Matrix</li>
+            <li>Her</li>
             <li>O Senhor dos Anéis: A Sociedade do Anel</li>
             <li>Vingadores: Ultimato</li>
         </ul>
