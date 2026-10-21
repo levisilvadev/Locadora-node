@@ -3,7 +3,7 @@ const app = express(); //iniciando o express
 
 //criando a rota de boas vindas
 app.get("/", function(req,res){
-    res.send("<h1> Não seja bem-vindo(a) ao site da locadora!</h1>");
+    res.send("<h1>Seja muito bem-vindo(a) ao site da locadora!</h1>");
 })
 
 //rota de lista de filmes disponíveis
